@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "value": "#ffffff"
       },
       "shape": {
-        "type": "image",
+        "type": "polygon",
         "stroke": {
           "width": 0,
           "color": "#000000"
@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "nb_sides": 5
         },
         "image": {
-          "src": "img/lambda.png",
+          "src": "img/github.svg",
           "width": 100,
           "height": 100
         }
