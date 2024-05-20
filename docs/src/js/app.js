@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "value": "#ffffff"
       },
       "shape": {
-        "type": "image",
+        "type": "polygon",
         "stroke": {
           "width": 0,
           "color": "#000000"
