@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "nb_sides": 5
         },
         "image": {
-          "src": "lambda.png",
+          "src": "src/img/lambda.png",
           "width": 100,
           "height": 100
         }
