@@ -3,7 +3,6 @@ cv:
   # label: Scientist
   email: sonya.simkin@ru.nl
   location: Nijmegen, Netherlands
-  image: ""
   # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   # social_networks:
@@ -69,14 +68,16 @@ cv:
 
     Awards:
       - title: Mark J. Stehlik Introductory and Service Teaching Award
-        authors: Sonya Simkin
+        authors: 
+          - Sonya Simkin
         date: 2026
         awarder: School of Computer Science, Carnegie Mellon University
         url: https://www.cs.cmu.edu/~scsfacts/stehlikaward.html
         summary: The Stehlik Award acknowledges those bringing their best and indispensible efforts to the task of introductory teaching. The selection is based on student nominations, recommendation letters, and reviews, and is evaluated by the SCS Teaching Excellence Committee.
 
       - title: Senior Leadership Recognition
-        authors: Sonya Simkin
+        authors: 
+          - Sonya Simkin
         date: 2024
         awarder: Office of Student Activities, Carnegie Mellon University
         url: https://www.cmu.edu/student-affairs/celd/leadership-development/senior-leadership/index.html
