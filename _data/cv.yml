@@ -1,7 +1,7 @@
 cv:
   name: Sonya Simkin
   # label: Scientist
-  email: sonya.simkin[at]ru.nl
+  email: sonya.simkin@ru.nl
   location: Nijmegen, Netherlands
   image: ""
   # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
@@ -50,8 +50,8 @@ cv:
         location: Pittsburgh, Pennsylvania, USA
         area: Computer Science
         studyType: Bachelor of Science (B.S.)
-        start_date: 2024
-        end_date: 2020
+        start_date: 2020
+        end_date: 2024
         # highlights:
         #   - Description 1.
         #   - Description 2.
@@ -60,8 +60,8 @@ cv:
       - company: CMU CS Academy
         position: Software Engineering Intern
         location: Pittsburgh, PA, USA
-        start_date: 10-01-2025
-        end_date: 08-28-2026
+        start_date: 2025-10
+        end_date: 2026-08
         highlights:
           - Developed Rust-based library for Python graphics framework in [Desktop CMU Graphics](https://github.com/cmu-cs-academy/desktop-cmu-graphics) using Skia for graphics rendering and winit for windowing
           - Implemented frontend changes in React and Redux for the CS Academy online learning platform, including improving search result display and site option accessibility
@@ -69,18 +69,28 @@ cv:
 
     Awards:
       - title: Mark J. Stehlik Introductory and Service Teaching Award
+        authors: Sonya Simkin
         date: 2026
         awarder: School of Computer Science, Carnegie Mellon University
         url: https://www.cs.cmu.edu/~scsfacts/stehlikaward.html
         summary: The Stehlik Award acknowledges those bringing their best and indispensible efforts to the task of introductory teaching. The selection is based on student nominations, recommendation letters, and reviews, and is evaluated by the SCS Teaching Excellence Committee.
 
-      - title: Senior Leadership Recognition 
+      - title: Senior Leadership Recognition
+        authors: Sonya Simkin
         date: 2024
         awarder: Office of Student Activities, Carnegie Mellon University
         url: https://www.cmu.edu/student-affairs/celd/leadership-development/senior-leadership/index.html
         summary: Senior Leadership Recognition honors graduating seniors who have made a significant impact on our community and provides an opportunity for these outstanding students to reflect on their leadership at Carnegie Mellon and apply the lessons learned to their future goals and aspirations.
 
     Publications:
+      - title: Logical Relations for Noninterference with Cryptography
+        authors:
+          - Sonya Simkin
+        publisher: Carnegie Mellon University School of Computer Science
+        releaseDate: 2025
+        summary: Master's thesis
+        url: http://reports-archive.adm.cs.cmu.edu/anon/anon/home/ftp/usr0/ftp/2025/CMU-CS-25-145.pdf
+
       - title: "TBD Pedestrian Data Collection: Towards Rich, Portable, and Large-Scale Natural Pedestrian Data"
         authors:
           - Allan Wang
