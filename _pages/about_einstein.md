@@ -1,3 +1,0 @@
-I am an incoming PhD student at [Radboud University](https://www.ru.nl/en) in the department of [Software Science](https://sws.cs.ru.nl/), advised by [Robbert Krebbers](https://robbertkrebbers.nl/). I will be working on the [COCONUT](https://robbertkrebbers.nl/coconut.html) project, with a focus on using logical relations to prove properties such as noninterference for concurrent languages.
-
-Previously, I completed my M.S./B.S. at [Carnegie Mellon University](https://www.cmu.edu/) in the [School of Computer Science](https://www.cs.cmu.edu/). I was advised by [Stephanie Balzer](https://www.cs.cmu.edu/~balzers/) and completed a Master's thesis entitled "Logical Relations for Noninterference with Cryptography."
