@@ -27,8 +27,8 @@ cv:
         url: https://www.ru.nl/en
         area: Software Science
         studyType: Doctor of Philosophy (Ph.D.)
-        start_date: 2026
-        end_date: 2030
+        start_date: "2026"
+        end_date: "2030"
         # score: ""
         # courses: "Theory of Relativity"
         # highlights:
@@ -39,8 +39,8 @@ cv:
         location: Pittsburgh, Pennsylvania, USA
         area: Computer Science
         studyType: Master of Science (M.S.) -- Research Thesis
-        start_date: 2024
-        end_date: 2025
+        start_date: "2024"
+        end_date: "2025"
         # highlights:
         #   - Description 1.
         #   - Description 2.
@@ -49,8 +49,8 @@ cv:
         location: Pittsburgh, Pennsylvania, USA
         area: Computer Science
         studyType: Bachelor of Science (B.S.)
-        start_date: 2020
-        end_date: 2024
+        start_date: "2020"
+        end_date: "2024"
         # highlights:
         #   - Description 1.
         #   - Description 2.
@@ -68,17 +68,17 @@ cv:
 
     Awards:
       - title: Mark J. Stehlik Introductory and Service Teaching Award
-        authors: 
+        authors:
           - Sonya Simkin
-        date: 2026
+        date: "2026"
         awarder: School of Computer Science, Carnegie Mellon University
         url: https://www.cs.cmu.edu/~scsfacts/stehlikaward.html
         summary: The Stehlik Award acknowledges those bringing their best and indispensible efforts to the task of introductory teaching. The selection is based on student nominations, recommendation letters, and reviews, and is evaluated by the SCS Teaching Excellence Committee.
 
       - title: Senior Leadership Recognition
-        authors: 
+        authors:
           - Sonya Simkin
-        date: 2024
+        date: "2024"
         awarder: Office of Student Activities, Carnegie Mellon University
         url: https://www.cmu.edu/student-affairs/celd/leadership-development/senior-leadership/index.html
         summary: Senior Leadership Recognition honors graduating seniors who have made a significant impact on our community and provides an opportunity for these outstanding students to reflect on their leadership at Carnegie Mellon and apply the lessons learned to their future goals and aspirations.
@@ -88,7 +88,7 @@ cv:
         authors:
           - Sonya Simkin
         publisher: Carnegie Mellon University School of Computer Science
-        releaseDate: 2025
+        releaseDate: "2025"
         summary: Master's thesis
         url: http://reports-archive.adm.cs.cmu.edu/anon/anon/home/ftp/usr0/ftp/2025/CMU-CS-25-145.pdf
 
@@ -101,7 +101,7 @@ cv:
           - Abhijat Biswas
           - Aaron Steinfeld
         publisher: IEEE International Conference on Robotics and Automation (ICRA)
-        releaseDate: 2024
+        releaseDate: "2024"
         url: https://arxiv.org/abs/2309.17187
 
     Manuscripts:
@@ -113,7 +113,7 @@ cv:
           - Sonya Simkin
           - Yue Yao
           - Stephanie Balzer
-        releaseDate: 2025
+        releaseDate: "2025"
         url: https://arxiv.org/pdf/2511.19521
 
       - title: A Language-Agnostic Logical Relation for Message-Passing Protocols
@@ -123,23 +123,23 @@ cv:
           - Rui Li
           - Yue Yao
           - Stephanie Balzer
-        releaseDate: 2025
+        releaseDate: "2025"
         url: https://arxiv.org/pdf/2506.10026
 
     Languages:
       - name: English
-        summary: "Native speaker"
+        summary: Native speaker
 
       - name: Russian
-        summary: "Heritage speaker"
+        summary: Heritage speaker
 
     Projects:
       - name: GradescopeOCaml
         summary: An implementation of the [SavannahProject](https://github.com/ProjectSavanna/autograding) autograder infrastructure for OCaml
         url: https://github.com/sonyasimk/gradescope_ocaml
-        date: 2026
+        date: "2026"
 
       - name: CompileBPV
         summary: A compiler for a small functional language using call-by-push-value (CBPV) as an intermediate representation, based on a talk by Max S. New
         url: https://github.com/zaxioms0/CompileBPV
-        date: 2024
+        date: "2024"
